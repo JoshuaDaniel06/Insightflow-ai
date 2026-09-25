@@ -1,0 +1,10 @@
+pandas
+numpy
+mysql-connector-python
+python-dotenv
+sentence-transformers
+faiss-cpu
+google-genai
+fastapi
+uvicorn
+pydantic

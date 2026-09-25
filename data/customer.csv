@@ -1,0 +1,11 @@
+customer_id,name,age,city,email,total_purchase
+C001,Arun Kumar,24,Chennai,arun@gmail.com,12500
+C002,Priya Sharma,29,Madurai,priya@gmail.com,8700
+C003,Ravi Kumar,35,Chennai,ravi@gmail.com,15300
+C004,Kumar Raj,27,Madurai,kumar@gmail.com,4200
+C005,Meena Devi,28,Chennai,meena@gmail.com,11200
+C006,Suresh Babu,-5,Madurai,suresh@gmail.com,6500
+C007,Anu Priya,24,CHENNAI,anu@gmail.com,9800
+C008,Rahul Das,30,Coimbatore,,7200
+C009,Divya Raj,27, Chennai,divya@gmail.com,14500
+C010,Arun Kumar,24,Chennai,arun@gmail.com,12500

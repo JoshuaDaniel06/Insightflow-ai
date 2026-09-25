@@ -1,0 +1,40 @@
+CUSTOMER REFUND POLICY
+
+Customers can request a refund within 30 days of the original purchase.
+
+Products must be returned in unused condition with the original invoice.
+
+Refund requests are reviewed by the customer support team.
+
+Once a refund is approved, the refund is normally processed within 5 to 7 business days.
+
+If the product is damaged or used, the refund request may be rejected.
+
+
+PREMIUM CUSTOMER POLICY
+
+Customers whose total purchase value is between 10000 and 14999 rupees are classified as Premium customers.
+
+Premium customers receive priority customer support.
+
+Premium customers may receive faster assistance for refund-related queries.
+
+
+CUSTOMER SUPPORT POLICY
+
+Customer support is available for questions related to purchases, refunds, and account information.
+
+Customers should provide their customer ID when requesting account-specific assistance.
+
+The customer support team should verify customer information before providing account-specific details.
+
+
+PURCHASE VALUE SEGMENTS
+
+Customers with total purchases below 5000 rupees are classified as Low Value customers.
+
+Customers with total purchases between 5000 and 9999 rupees are classified as Regular customers.
+
+Customers with total purchases between 10000 and 14999 rupees are classified as Premium customers.
+
+Customers with total purchases of 15000 rupees or more are classified as High Value customers.
