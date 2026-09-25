@@ -1,4 +1,4 @@
-# InsightFlow AI
+# 🚀 InsightFlow AI
 
 ## AI-Powered Customer Intelligence & Data Engineering Platform
 
